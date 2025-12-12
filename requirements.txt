@@ -1,0 +1,11 @@
+modelscope
+torch
+torchvision
+Pillow
+flask
+requests
+diffusers
+transformers
+accelerate
+gunicorn
+gevent
